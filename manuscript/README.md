@@ -1,0 +1,46 @@
+# The DSC Book - Forever Edition
+
+* [front-matter](front-matter.md)
+* [about-the-authors](about-the-authors.md)
+* [feedback](feedback.md)
+* [a-note-on-code-listings](a-note-on-code-listings.md)
+* [introduction](introduction.md)
+
+## [part-1-design-decisions](part-1-design-decisions.md)
+* [designing-dsc](designing-dsc.md)
+
+## [part-2-configuring-the-infrastructure](part-2-configuring-the-infrastructure.md)
+* [infrastructure-prerequisites](infrastructure-prerequisites.md)
+* [configuring-the-lcm](configuring-the-lcm.md)
+* [setting-up-a-pull-server](setting-up-a-pull-server.md)
+* [opting-out-pull-server](opting-out-pull-server.md)
+
+## [part-3-testing-the-infrastructure](part-3-testing-the-infrastructure.md)
+* [testing-push-mode](testing-push-mode.md)
+* [testing-pull-mode](testing-pull-mode.md)
+
+## [part-4-authoring-configurations](part-4-authoring-configurations.md)
+* [basic-configuration-authoring](basic-configuration-authoring.md)
+* [going-further-with-configurations](going-further-with-configurations.md)
+* [poor-mans-configuration-modularization](poor-mans-configuration-modularization.md)
+* [composite-configurations](composite-configurations.md)
+* [partial-configurations](partial-configurations.md)
+* [deploying-mofs-to-pull-server](deploying-mofs-to-pull-server.md)
+
+## [part-5-using-and-authoring-resources](part-5-using-and-authoring-resources.md)
+* [finding-and-using-resources](finding-and-using-resources.md)
+* [custom-resources](custom-resources.md)
+* [class-based-custom-resources](class-based-custom-resources.md)
+* [best-practices-for-resource-design](best-practices-for-resource-design.md)
+* [the-script-resource](the-script-resource.md)
+
+## [part-6-advanced-stuff](part-6-advanced-stuff.md)
+* [reporting](reporting.md)
+* [security-and-dsc](security-and-dsc.md)
+* [dsc-in-azure](dsc-in-azure.md)
+* [dsc-on-linux](dsc-on-linux.md)
+* [troubleshooting-and-debugging](troubleshooting-and-debugging.md)
+* [self-modifying-configurations](self-modifying-configurations.md)
+* [the-scaling-question](the-scaling-question.md)
+* [lcm-pull-server](lcm-pull-server.md)
+* [known-problems](known-problems.md)
