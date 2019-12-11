@@ -1,0 +1,46 @@
+# The DSC Book - Forever Edition
+
+* [front-matter](manuscript/front-matter.md)
+* [about-the-authors](manuscript/about-the-authors.md)
+* [feedback](manuscript/feedback.md)
+* [a-note-on-code-listings](manuscript/a-note-on-code-listings.md)
+* [introduction](manuscript/introduction.md)
+
+## [part-1-design-decisions](manuscript/part-1-design-decisions.md)
+* [designing-dsc](manuscript/designing-dsc.md)
+
+## [part-2-configuring-the-infrastructure](manuscript/part-2-configuring-the-infrastructure.md)
+* [infrastructure-prerequisites](manuscript/infrastructure-prerequisites.md)
+* [configuring-the-lcm](manuscript/configuring-the-lcm.md)
+* [setting-up-a-pull-server](manuscript/setting-up-a-pull-server.md)
+* [opting-out-pull-server](manuscript/opting-out-pull-server.md)
+
+## [part-3-testing-the-infrastructure](manuscript/part-3-testing-the-infrastructure.md)
+* [testing-push-mode](manuscript/testing-push-mode.md)
+* [testing-pull-mode](manuscript/testing-pull-mode.md)
+
+## [part-4-authoring-configurations](manuscript/part-4-authoring-configurations.md)
+* [basic-configuration-authoring](manuscript/basic-configuration-authoring.md)
+* [going-further-with-configurations](manuscript/going-further-with-configurations.md)
+* [poor-mans-configuration-modularization](manuscript/poor-mans-configuration-modularization.md)
+* [composite-configurations](manuscript/composite-configurations.md)
+* [partial-configurations](manuscript/partial-configurations.md)
+* [deploying-mofs-to-pull-server](manuscript/deploying-mofs-to-pull-server.md)
+
+## [part-5-using-and-authoring-resources](manuscript/part-5-using-and-authoring-resources.md)
+* [finding-and-using-resources](manuscript/finding-and-using-resources.md)
+* [custom-resources](manuscript/custom-resources.md)
+* [class-based-custom-resources](manuscript/class-based-custom-resources.md)
+* [best-practices-for-resource-design](manuscript/best-practices-for-resource-design.md)
+* [the-script-resource](manuscript/the-script-resource.md)
+
+## [part-6-advanced-stuff](manuscript/part-6-advanced-stuff.md)
+* [reporting](manuscript/reporting.md)
+* [security-and-dsc](manuscript/security-and-dsc.md)
+* [dsc-in-azure](manuscript/dsc-in-azure.md)
+* [dsc-on-linux](manuscript/dsc-on-linux.md)
+* [troubleshooting-and-debugging](manuscript/troubleshooting-and-debugging.md)
+* [self-modifying-configurations](manuscript/self-modifying-configurations.md)
+* [the-scaling-question](manuscript/the-scaling-question.md)
+* [lcm-pull-server](manuscript/lcm-pull-server.md)
+* [known-problems](manuscript/known-problems.md)
